@@ -96,4 +96,4 @@ pd.read_csv("data/processed/stations_clean.csv", keep_default_na=False, na_value
 
 ## Author
 
-Pavan - R.K. College of Engineering
+Pavan Kumar Tiruveedhi
